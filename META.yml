@@ -22,4 +22,7 @@ requires:
   perl: 5.008
   strict: 0
   warnings: 0
-version: 0.1
+resources:
+  bugtracker: https://github.com/richardjharris/Unicode-Fraction/issues
+  repository: git://github.com/richardjharris/Unicode-Fraction.git
+version: 0.2
